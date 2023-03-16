@@ -37,6 +37,6 @@ git pull # updates the files in your working directory with the latest changes f
 
 # do I have to use git fetch --all?
 
-No, you don't have to use `git fetch --all`. You can use `git fetch` without any arguments to download all the branches from GitHub. You can also use `git fetch origin` to download all the branches from GitHub. The `--all` flag is only needed if you want to download all the branches from GitHub and also all the tags.
+No, you don't have to use `git fetch --all`. You can use `git fetch` without any arguments to download all the branches from GitHub. The `--all` flag is only needed if you want to download all the branches from GitHub and also all the tags.
 
 
