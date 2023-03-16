@@ -12,4 +12,6 @@
 
 ## Merging
 
+## Errors
 
+[How do I fix a merge conflict?](./docs/errors/fix-a-merge-conflict.md)
