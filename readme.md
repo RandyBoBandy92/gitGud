@@ -41,4 +41,5 @@
 [I ignored a file, but it's still being tracked by git](/docs/repos/ignore-files.md#i-ignored-a-file-but-its-still-being-tracked-by-git)
 
 [I ran git fetch, and switched to the master branch, but it is still out of date, why?](/docs/branches/switch-branches.md#i-ran-git-fetch-and-switched-to-the-master-branch-but-it-is-still-out-of-date-why)
+
 [do I have to use git fetch --all?](/docs/branches/switch-branches.md#do-i-have-to-use-git-fetch---all)
