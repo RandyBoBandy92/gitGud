@@ -8,6 +8,12 @@ git branch -m old-branch-name new-branch-name # -m flag renames the branch
 # so you are actually moving the branch from the old name to the new name
 ```
 
+If you are already on the branch you wish to merge, there is a shorthand for the above command:
+
+```bash
+git branch -m new-branch-name
+```
+
 ## VS Code
 
 - Open VS Code
