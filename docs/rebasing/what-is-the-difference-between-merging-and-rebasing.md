@@ -10,7 +10,7 @@ Say that you are working on a feature branch, called `feature1`. You made this b
 
 ### Why should I care about a messy commit history?
 
-Honestly, you shouldn't (at this point)... but if you do, read more here [How do I rebase my branch with the latest changes from master/main?](./docs/rebasing/rebase-branch-with-latest-changes-from-master.md)
+Honestly, you shouldn't (at this point)... but if you do, read more here [How do I rebase my branch with the latest changes from master/main?](/docs/rebasing/rebase-branch-with-latest-changes-from-master.md)
 
 
 So, if you want to keep your branch UP TO DATE with the latest version of master without losing any of your changes, you can use a rebase.

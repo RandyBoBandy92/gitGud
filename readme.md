@@ -3,6 +3,7 @@
 ## Creating
 
 [How do I create a new git repo?](./docs/repos/create-a-new-git-repo.md)
+[How do I make a new GitHub repo?](./docs/repos/create-a-new-github-repo.md)
 
 ## Branching
 
