@@ -1,3 +1,4 @@
 *.json
 
 media/processed
+.DS_Store
