@@ -8,7 +8,7 @@
 
 [How do I switch to a different branch?](./docs/branches/switch-branches.md)
 
-[How do I rename a branch?](./docs/branches/rename-a-branch.md.md)
+[How do I rename a branch?](./docs/branches/rename-a-branch.md)
 
 ## Merging
 
