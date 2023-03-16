@@ -27,6 +27,7 @@
 ## GitHub
 [How do I make a new GitHub repo?](/docs/repos/create-a-new-github-repo.md)
 [How do I clone a GitHub repo?](/docs/repos/clone-a-github-repo.md)
+[How do I push my changes to GitHub?](/docs/repos/push-changes-to-github.md)
 
 ## Oops!
 ### Reverting
@@ -43,3 +44,5 @@
 [I ran git fetch, and switched to the master branch, but it is still out of date, why?](/docs/branches/switch-branches.md#i-ran-git-fetch-and-switched-to-the-master-branch-but-it-is-still-out-of-date-why)
 
 [do I have to use git fetch --all?](/docs/branches/switch-branches.md#do-i-have-to-use-git-fetch---all)
+
+[my git push is not working!!?!](/docs/repos/push-changes-to-github.md#my-git-push-is-not-working)
