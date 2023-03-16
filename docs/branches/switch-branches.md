@@ -21,6 +21,7 @@ Yes, you can switch to a branch that's on GitHub. You can do this by using the `
 git fetch # downloads all the branches from GitHub, lets say there was a branch called my-branch
 # all branches are now available locally
 git checkout my-branch # switches to the branch called my-branch
+git switch my-branch # alternatively
 ```
 
 # I ran git fetch, and switched to the master branch, but it is still out of date, why?
