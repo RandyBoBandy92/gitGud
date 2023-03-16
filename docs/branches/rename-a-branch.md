@@ -17,6 +17,6 @@ git branch -m new-branch-name
 ## VS Code
 
 - Open VS Code
-- Open up the command palette (Ctrl + Shift + P)
+- Open up the command palette (Ctrl + Shift + P) or (Cmd + Shift + P) on Mac
 - Type in "Rename" and look for the "Git: Rename Branch" command
 - Type in the new name for the branch, and press enter
