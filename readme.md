@@ -37,7 +37,7 @@
 
 [How do I pull changes from GitHub?](/docs/repos/pull-changes-from-github.md)
 
-[How do I make a pull request?](/docs/repos/make-a-pull-request.md) TODO
+[How do I make a pull request?](/docs/repos/make-a-pull-request.md) 
 
 
 ## General
