@@ -78,3 +78,8 @@
 [my git push is not working!!?!](/docs/repos/push-changes-to-github.md#my-git-push-is-not-working)
 
 [my git pull is not working!!?!](/docs/repos/pull-changes-from-github.md#my-git-pull-is-not-working)
+
+
+
+## Advanced
+[I want to add a couple changes to my last commit, how do I do that?](/docs/advanced/add-changes-to-last-commit.md)
