@@ -46,7 +46,12 @@
 
 [What is git stash?](/docs/general/what-is-git-stash.md) TODO
 
+[Where are all the git commands in VS Code?](/docs/general/where-are-all-the-git-commands-in-vs-code.md)
+
 ## Oops!
+
+[I accidentally made a commit to master, how do I undo it?](/docs/)
+
 ### Reverting
 
 
