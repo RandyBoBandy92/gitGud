@@ -20,7 +20,7 @@ git add . # add all files back to git's tracking
 git commit -m "remove ignored files from git's tracking"
 ```
 
-You can also remove one file only from tracking
+If that command seems too scary (I don't blame you) You can also remove one file only from tracking...
 
 ```bash
 git rm -r --cached <file name> # remove file from git's tracking
