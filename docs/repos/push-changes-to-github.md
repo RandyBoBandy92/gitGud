@@ -46,3 +46,4 @@ git branch -u origin/brokenlol
 git push # this will push your changes to the remote branch and *SHOULD* work ;)
 ```
 
+## Every time I try to push to github I get a message in the terminal saying something about upstream?

@@ -48,7 +48,7 @@
 
 [What is git status?](/docs/general/what-is-git-status.md) 
 
-[What is git stash?](/docs/general/what-is-git-stash.md) TODO
+[What is git stash?](/docs/general/what-is-git-stash.md) 
 
 [Where are all the git commands in VS Code?](/docs/general/where-are-all-the-git-commands-in-vs-code.md)
 
@@ -71,6 +71,8 @@
 ### Vs Code Errors
 
 [When I try to switch branches using VS Code, this weird thing pops up](/docs/branches/switch-branches.md#when-i-try-to-switch-branches-using-vs-code-this-weird-thing-pops-up)
+
+[Every time I try to push to github I get a message in the terminal saying something about upstream?](/docs/repos/push-changes-to-github.md#every-time-i-try-to-push-to-github-i-get-a-message-in-the-terminal-saying-something-about-upstream) TODO
 
 ### Other Errors
 
