@@ -37,6 +37,8 @@
 
 [How do I pull changes from GitHub?](/docs/repos/pull-changes-from-github.md)
 
+[How do I make a pull request?](/docs/repos/make-a-pull-request.md) TODO
+
 
 ## General
 
@@ -58,6 +60,11 @@
 
 ### Reverting
 
+[What is git revert?](/docs/revert/what-is-git-revert.md) TODO
+
+[How do I revert a commit?](/docs/revert/how-do-i-revert-a-commit.md) TODO
+
+[How do I revert a merge commit?](/docs/revert/how-do-i-revert-a-merge-commit.md) TODO
 
 ## Errors
 
