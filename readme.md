@@ -44,11 +44,19 @@
 
 [What is git status?](/docs/general/what-is-git-status.md) TODO
 
+[What is git stash?](/docs/general/what-is-git-stash.md) TODO
+
 ## Oops!
 ### Reverting
 
 
 ## Errors
+
+### Vs Code Errors
+
+[When I try to switch branches using VS Code, this weird thing pops up](/docs/branches/switch-branches.md#when-i-try-to-switch-branches-using-vs-code-this-weird-thing-pops-up)
+
+### Other Errors
 
 [How do I fix a merge conflict?](/docs/errors/fix-a-merge-conflict.md)
 
