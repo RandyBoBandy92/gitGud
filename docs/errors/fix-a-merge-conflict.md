@@ -23,4 +23,4 @@ While the code from the branch you are merging in will be called "Incoming Chang
 6. Repeat steps 2-5 for all files with merge conflicts
 7. Commit the merge
 
-
+![](/media/vs%20code%20merge%20conflict%20resolution.gif)
