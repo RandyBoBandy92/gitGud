@@ -47,3 +47,29 @@ git push # this will push your changes to the remote branch and *SHOULD* work ;)
 ```
 
 ## Every time I try to push to github I get a message in the terminal saying something about upstream?
+
+If you are getting a message that looks like this:
+
+```bash
+$ git push
+fatal: The current branch cheese has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin cheese
+
+To have this happen automatically for branches without a tracking
+upstream, see 'push.autoSetupRemote' in 'git help config'.
+```
+
+Normally to fix this, you run:
+```bash
+ git push --set-upstream origin cheese
+```
+
+Wouldn't it be nice, if this was just done automatically? Well, it can be! You can set this up by running the following command:
+
+To learn more about your git config, see [git config](/docs/general/what-is-git-config.md)
+
+```bash
+git config --global push.autoSetupRemote true
+```
