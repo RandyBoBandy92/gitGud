@@ -3,6 +3,7 @@
 ## Creating
 
 [How do I create a new git repo?](/docs/repos/create-a-new-git-repo.md)
+
 [How do I ignore files?](/docs/repos/ignore-files.md)
 
 ## Branching
@@ -38,7 +39,9 @@
 ## General
 
 [What is git fetch?](/docs/general/what-is-git-fetch.md)
+
 [What is git config?](/docs/general/what-is-git-config.md)
+
 [What is git status?](/docs/general/what-is-git-status.md) TODO
 
 ## Oops!
