@@ -1,5 +1,7 @@
 # Pull changes from GitHub
 
+`git pull` is a lot like `git fetch`, except that it also merges the remote branch into your local branch at the same time.
+For info on `git fetch`, see [What is git fetch?](/docs/general/what-is-git-fetch.md)
 
 ## My Git Pull is not working!!!!!!!
 

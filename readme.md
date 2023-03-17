@@ -34,6 +34,13 @@
 
 [How do I pull changes from GitHub?](/docs/repos/pull-changes-from-github.md)
 
+
+## General
+
+[What is git fetch?](/docs/general/what-is-git-fetch.md)
+[What is git config?](/docs/general/what-is-git-config.md)
+[What is git status?](/docs/general/what-is-git-status.md) TODO
+
 ## Oops!
 ### Reverting
 
@@ -48,7 +55,7 @@
 
 [I ran git fetch, and switched to the master branch, but it is still out of date, why?](/docs/branches/switch-branches.md#i-ran-git-fetch-and-switched-to-the-master-branch-but-it-is-still-out-of-date-why)
 
-[do I have to use git fetch --all?](/docs/branches/switch-branches.md#do-i-have-to-use-git-fetch---all)
+[do I have to use git fetch --all?](/docs/general/what-is-git-fetch.md#do-i-have-to-use-git-fetch---all)
 
 [my git push is not working!!?!](/docs/repos/push-changes-to-github.md#my-git-push-is-not-working)
 
