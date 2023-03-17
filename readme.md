@@ -62,9 +62,9 @@
 
 [What is git revert?](/docs/revert/what-is-git-revert.md)
 
-[How do I revert a commit?](/docs/revert/how-do-i-revert-a-commit.md) TODO
+[How do I revert a commit?](/docs/revert/what-is-git-revert.md#how-do-i-revert-a-commit) 
 
-[How do I revert a merge commit?](/docs/revert/how-do-i-revert-a-merge-commit.md) TODO
+[How do I revert a merge commit?](/docs/revert/how-do-i-revert-a-merge-commit.md) 
 
 ## Errors
 
