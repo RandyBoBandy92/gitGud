@@ -52,7 +52,7 @@
 
 ## Oops!
 
-[I accidentally made a commit to master, how do I undo it?](/docs/)
+[I accidentally made a commit to master, how do I undo it?](/docs/oops/i-accidentally-made-a-commit-to-master-how-do-i-undo-it.md)
 
 ### Reverting
 
