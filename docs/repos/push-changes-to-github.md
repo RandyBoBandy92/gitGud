@@ -22,6 +22,10 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 ```
 
 This means that your local branch is out of date with the remote branch. You will need to pull the latest changes from the remote branch, and then push your changes to the remote branch.
+
+For info on that, see [Pull changes from GitHub](/docs/repos/pull-changes-from-github.md)
+and if you have conflicts, see [How do I resolve merge conflicts?](/docs/repos/how-do-i-resolve-merge-conflicts.md)
+
 Buuuut... It could also mean that maybe you accidentally are trying to push to the wrong branch.
 
 How do we find out if that is the case?
@@ -41,3 +45,4 @@ git branch -u origin/<branch-name> # this will change the remote branch that you
 git branch -u origin/brokenlol
 git push # this will push your changes to the remote branch and *SHOULD* work ;)
 ```
+
