@@ -60,7 +60,7 @@
 
 ### Reverting
 
-[What is git revert?](/docs/revert/what-is-git-revert.md) TODO
+[What is git revert?](/docs/revert/what-is-git-revert.md)
 
 [How do I revert a commit?](/docs/revert/how-do-i-revert-a-commit.md) TODO
 
