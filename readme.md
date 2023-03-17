@@ -28,6 +28,7 @@
 [How do I make a new GitHub repo?](/docs/repos/create-a-new-github-repo.md)
 [How do I clone a GitHub repo?](/docs/repos/clone-a-github-repo.md)
 [How do I push my changes to GitHub?](/docs/repos/push-changes-to-github.md)
+[How do I pull changes from GitHub?](/docs/repos/pull-changes-from-github.md)
 
 ## Oops!
 ### Reverting
