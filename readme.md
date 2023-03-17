@@ -72,7 +72,7 @@
 
 [When I try to switch branches using VS Code, this weird thing pops up](/docs/branches/switch-branches.md#when-i-try-to-switch-branches-using-vs-code-this-weird-thing-pops-up)
 
-[Every time I try to push to github I get a message in the terminal saying something about upstream?](/docs/repos/push-changes-to-github.md#every-time-i-try-to-push-to-github-i-get-a-message-in-the-terminal-saying-something-about-upstream) TODO
+[Every time I try to push to github I get a message in the terminal saying something about upstream?](/docs/repos/push-changes-to-github.md#every-time-i-try-to-push-to-github-i-get-a-message-in-the-terminal-saying-something-about-upstream)
 
 ### Other Errors
 
