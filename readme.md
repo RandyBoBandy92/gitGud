@@ -44,11 +44,13 @@
 
 [What is git config?](/docs/general/what-is-git-config.md)
 
-[What is git status?](/docs/general/what-is-git-status.md) TODO
+[What is git status?](/docs/general/what-is-git-status.md) 
 
 [What is git stash?](/docs/general/what-is-git-stash.md) TODO
 
 [Where are all the git commands in VS Code?](/docs/general/where-are-all-the-git-commands-in-vs-code.md)
+
+[What is git log?](/docs/general/what-is-git-log.md)
 
 ## Oops!
 
