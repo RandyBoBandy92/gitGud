@@ -16,6 +16,8 @@
 
 ## Merging
 
+[What is git merge?](/docs/merging/what-is-git-merge.md)
+
 [How do I merge master/main into my branch?](/docs/merging/merge-master-into-branch.md)
 
 ## Rebasing

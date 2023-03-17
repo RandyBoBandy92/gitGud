@@ -7,3 +7,5 @@ So, say if I wanted to merge a branch, or switch branches, or do anything else, 
 Well, you can go to the command palette, and type in `git`, and you'll see a bunch of commands.
 
 ![](/media/VS%20Code%20Command%20Pallete%20Git%20Commands.gif)
+
+So you can access git merge, git pull, any git command you can think of from the command palette.
