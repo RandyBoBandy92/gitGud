@@ -91,3 +91,8 @@
 [How do I revert a commit?](/docs/revert/what-is-git-revert.md#how-do-i-revert-a-commit) 
 
 [How do I revert a merge commit?](/docs/revert/how-do-i-revert-a-merge-commit.md) 
+
+
+## Workflow
+
+[How do I work on a project with other students?](/docs/workflow/work-on-a-project-with-other-students.md)
