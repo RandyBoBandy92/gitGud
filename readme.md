@@ -18,14 +18,6 @@
 
 ## Errors
 
-### Vs Code Errors
-
-[When I try to switch branches using VS Code, this weird thing pops up](/docs/branches/switch-branches.md#when-i-try-to-switch-branches-using-vs-code-this-weird-thing-pops-up)
-
-[Every time I try to push to github I get a message in the terminal saying something about upstream?](/docs/repos/push-changes-to-github.md#every-time-i-try-to-push-to-github-i-get-a-message-in-the-terminal-saying-something-about-upstream)
-
-### Other Errors
-
 [How do I fix a merge conflict?](/docs/errors/fix-a-merge-conflict.md)
 
 [Help! I'm stuck in Vim!](/docs/errors/vim.md)
@@ -40,6 +32,12 @@
 
 [my git pull is not working!!?!](/docs/repos/pull-changes-from-github.md#my-git-pull-is-not-working)
 
+[remote: This repository moved. Please use the new location ](/docs/repos/push-changes-to-github.md#remote-this-repository-moved-please-use-the-new-location)
+### Vs Code Errors
+
+[When I try to switch branches using VS Code, this weird thing pops up](/docs/branches/switch-branches.md#when-i-try-to-switch-branches-using-vs-code-this-weird-thing-pops-up)
+
+[Every time I try to push to github I get a message in the terminal saying something about upstream?](/docs/repos/push-changes-to-github.md#every-time-i-try-to-push-to-github-i-get-a-message-in-the-terminal-saying-something-about-upstream)
 
 
 ## GitHub

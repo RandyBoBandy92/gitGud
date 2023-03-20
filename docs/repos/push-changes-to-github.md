@@ -73,3 +73,18 @@ To learn more about your git config, see [git config](/docs/general/what-is-git-
 ```bash
 git config --global push.autoSetupRemote true
 ```
+
+## Remote this repository moved. Please use the new location
+
+If you are getting a message that looks like this:
+
+```bash
+$ git push
+remote: This repository moved. Please use the new location:
+```
+
+Then the github repo has either been renamed or moved. Here's how to update your local repo to point to the new location.
+
+```bash
+git remote set-url origin <new-url>
+```
